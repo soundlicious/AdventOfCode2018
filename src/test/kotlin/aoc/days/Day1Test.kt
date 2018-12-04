@@ -1,7 +1,5 @@
-package test
+package aoc.days
 
-import aoc.days.calculateFrequency
-import aoc.days.firstFrequencyReachedTwice
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 
